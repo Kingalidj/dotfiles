@@ -1,0 +1,74 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.020  000.020: --- NVIM STARTING ---
+020.010  019.990: locale set
+034.603  014.594: inits 1
+034.620  000.017: window checked
+034.623  000.003: parsing arguments
+047.270  012.646: init lua interpreter
+047.456  000.186: expanding arguments
+047.483  000.027: inits 2
+047.862  000.379: init highlight
+047.865  000.003: waiting for UI
+048.751  000.886: done waiting for UI
+048.789  000.038: init screen for UI
+048.811  000.022: init default mappings
+048.846  000.035: init default autocommands
+065.294  001.379  001.379: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/ftplugin.vim
+068.066  000.472  000.472: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/indent.vim
+414.480  046.180  046.180: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/onedark.nvim/colors/onedark.lua
+1175.951  1107.565  1061.385: sourcing /home/djahan/.config/nvim/init.lua
+1175.999  017.738: sourcing vimrc file(s)
+1182.347  000.544  000.544: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/filetype.lua
+1195.272  000.026  000.026: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/LuaSnip/ftdetect/snippets.vim
+1198.571  016.087  016.061: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/filetype.vim
+1201.566  000.203  000.203: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/syntax/synload.vim
+1201.932  003.027  002.824: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/syntax/syntax.vim
+1214.773  000.861  000.861: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/gzip.vim
+1214.941  000.072  000.072: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/health.vim
+1215.222  000.196  000.196: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/man.vim
+1218.026  000.683  000.683: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+1218.681  003.372  002.688: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/matchit.vim
+1218.989  000.192  000.192: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/matchparen.vim
+1219.561  000.487  000.487: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/netrwPlugin.vim
+1219.849  000.011  000.011: sourcing /home/djahan/.local/share/nvim/rplugin.vim
+1219.858  000.199  000.189: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/rplugin.vim
+1220.092  000.145  000.145: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/shada.vim
+1220.263  000.078  000.078: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/spellfile.vim
+1220.668  000.317  000.317: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/tarPlugin.vim
+1221.096  000.255  000.255: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/tohtml.vim
+1221.381  000.130  000.130: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/tutor.vim
+1222.128  000.596  000.596: sourcing /tmp/.mount_nvim9BtksZ/usr/share/nvim/runtime/plugin/zipPlugin.vim
+1224.159  001.485  001.485: sourcing /home/djahan/.config/nvim/plugin/packer_compiled.lua
+1224.968  020.926: loading rtp plugins
+1421.472  180.566  180.566: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim
+1430.666  008.716  008.716: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/nvim-cmp/plugin/cmp.lua
+1431.208  000.179  000.179: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/nvim-lsp-installer/plugin/nvim-lsp-installer.vim
+1431.598  000.105  000.105: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.vim
+1449.277  017.360  017.360: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua
+1449.668  000.062  000.062: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim
+1450.893  000.900  000.900: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua
+1451.656  000.320  000.320: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/vim-commentary/plugin/commentary.vim
+1452.661  000.701  000.701: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/vim-smoothie/plugin/smoothie.vim
+1454.160  001.080  001.080: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/vim-surround/plugin/surround.vim
+1457.242  022.284: loading packages
+1486.594  028.311  028.311: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/cmp-buffer/after/plugin/cmp_buffer.lua
+1492.229  005.455  005.455: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/cmp-cmdline/after/plugin/cmp_cmdline.lua
+1503.354  010.924  010.924: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+1510.477  006.892  006.892: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/cmp-path/after/plugin/cmp_path.lua
+1517.991  007.230  007.230: sourcing /home/djahan/.local/share/nvim/site/pack/packer/start/cmp_luasnip/after/plugin/cmp_luasnip.lua
+1518.023  001.969: loading after plugins
+1518.040  000.017: inits 3
+1520.099  002.060: reading ShaDa
+1576.765  056.666: opening buffers
+1576.809  000.043: BufEnter autocommands
+1576.812  000.003: editing files in windows
+1576.909  000.098: VimEnter autocommands
+1576.913  000.004: UIEnter autocommands
+1576.915  000.002: before starting main loop
+1577.486  000.571: first screen update
+1577.489  000.004: --- NVIM STARTED ---
